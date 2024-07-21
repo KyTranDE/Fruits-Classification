@@ -1,0 +1,16 @@
+numpy
+glop
+tqdm
+matplotlib
+pandas
+seaborn
+scikit-learn
+tensorflow
+tensorflow-hub
+opencv-python
+plotly
+xgboost
+lightgbm
+tk
+customtkinter
+pillow
